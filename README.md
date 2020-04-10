@@ -11,6 +11,8 @@ If you can dream it, we can DIG it.
 
 Contact us for a free custom-data consultation. 
 
-Look through this library and imagine your webiste with leading-tech visualizations then visit https://plotly.com/python/basic-charts/ to view the full library of custom plots and charts that can express the hidden meaning in your data. 
+Look through this library and imagine your website with leading-tech visualizations. Visit https://plotly.com/python/basic-charts/ to view the full library of custom plots and charts that can express the hidden meaning in your data. 
+
+We can work with you every step of the way to fully customize your website's statistical representations. 
 
 We promise you will DIG your high-tech interactive visualizations!
