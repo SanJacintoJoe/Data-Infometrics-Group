@@ -9,8 +9,32 @@ Are your website's graphs lackluster? Is your program success/revenue difficult 
 
 If you can dream it, we can DIG it. 
 
-Contact us for a free custom-data consultation. 
+Contact us for a free custom-data consultation.
 
-Look through this library and imagine your website with leading-tech visualizations. Visit https://plotly.com/python/basic-charts/ to view the full library of custom plots and charts that can express the hidden meaning in your data. 
+CEO and back-end system Developer: 
+Matthew Hale
+cell: 239-896-8404
+email: Mahale4366@eagle.fgcu.edu
+  
+CTO and front-end user-interface Developer:
+Cody Gordon
+cell:
+email:
+ 
 
-We promise you will DIG your high-tech interactive visualizations!
+Flat rate: $25/hour 
+
+Basic Package: https://plotly.com/python/basic-charts/ . Basic plot: $25/plot.
+
+Statistical Package: https://plotly.com/python/statistical-charts/ Statistical plot: $50/plot.
+
+Scientific Package: https://plotly.com/python/scientific-charts/ Scientific plot: $50/plot.
+
+Financial Package: https://plotly.com/python/financial-charts/ Financial plot: $50/plot.
+
+3D Package: https://plotly.com/python/3d-charts/ 3d plot: $75/plot.
+
+
+Imagine your website with the highest-tech custom plots and charts available to express the meaning in your business and data. 
+
+# We promise you will DIG your high-tech interactive visualizations!
