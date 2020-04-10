@@ -23,17 +23,17 @@ CTO and front-end user-interface Developer:
   -email:
  
 -------------------------------
-Flat rate: $25/hour 
+Flat rate: $50/hour 
 
-Basic Package: https://plotly.com/python/basic-charts/ . Basic plot: $25/plot.
+Basic Package: https://plotly.com/python/basic-charts/ . Basic plot: $50/plot+flat rate.
 
-Statistical Package: https://plotly.com/python/statistical-charts/ Statistical plot: $50/plot.
+Statistical Package: https://plotly.com/python/statistical-charts/ Statistical plot: $75/plot+flat rate.
 
-Scientific Package: https://plotly.com/python/scientific-charts/ Scientific plot: $50/plot.
+Scientific Package: https://plotly.com/python/scientific-charts/ Scientific plot: $75/plot+flat rate.
 
-Financial Package: https://plotly.com/python/financial-charts/ Financial plot: $50/plot.
+Financial Package: https://plotly.com/python/financial-charts/ Financial plot: $75/plot+flat rate.
 
-3D Package: https://plotly.com/python/3d-charts/ 3D plot: $75/plot.
+3D Package: https://plotly.com/python/3d-charts/ 3D plot: $100/plot.
 
 -------------------------------
 
