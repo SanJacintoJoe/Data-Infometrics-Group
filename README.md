@@ -7,20 +7,20 @@ Bring your data to life with publication-quality interactive plots for presentat
 We clean, pre-process, process, and visualize your data to inform research and development, business direction, and program success.
 Are your website's graphs lackluster? Is your program success/revenue difficult to explain? Do you have complex, custom data needs?
 
-If you can dream it, we can DIG it. 
+If you can dream it, we will build it, and you will DIG it! 
 
 -------------------------------
 Contact us for a free custom-data consultation.
 
 CEO and back-end system Developer: 
-  Matthew Hale
-  cell: 239-896-8404
-  email: Mahale4366@eagle.fgcu.edu
+  -Matthew Hale
+  -cell: 239-896-8404
+  -email: Mahale4366@eagle.fgcu.edu
   
 CTO and front-end user-interface Developer:
-  Cody Gordon
-  cell:
-  email:
+  -Cody Gordon
+  -cell:
+  -email:
  
 -------------------------------
 Flat rate: $25/hour 
