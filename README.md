@@ -25,7 +25,7 @@ CTO and front-end user-interface Developer:
 -------------------------------
 Flat rate: $50/hour 
 
-Basic Package: https://plotly.com/python/basic-charts/ . Basic plot: $50/plot+flat rate.
+Basic Package: https://plotly.com/python/basic-charts/ Basic plot: $50/plot+flat rate.
 
 Statistical Package: https://plotly.com/python/statistical-charts/ Statistical plot: $75/plot+flat rate.
 
