@@ -1,7 +1,5 @@
 # Data-Infometrics-Group
 
-Can you DIG it?!
-
 Bring your data to life with publication-quality interactive plots for presentations and websites through python.
 
 We clean, pre-process, process, and visualize your data to inform research and development, business direction, and program success.
